@@ -9,7 +9,7 @@
 
 Запуск тестов:  `pytest`    
 
-Приложение также доступно по ссылке: https://4boyz-project-practicum-app-bshxwv.streamlit.app/
+Приложение также доступно по ссылке: https://4boyz-project-practicum-app-pbsjwl.streamlit.app/
 
 
 ## Описание проекта
