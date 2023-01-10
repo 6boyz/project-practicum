@@ -29,3 +29,6 @@
 * [Сергеев Илья](https://github.com/allwanttokissme)
 * [Шевляков Дмитрий](https://github.com/prettygodboi)
 * [Касов Артем](https://github.com/A-Kasov)
+
+# Пример работы:
+![sol](https://user-images.githubusercontent.com/67365071/211650678-9ed0b304-f945-4ad7-86bc-1c37541eec9a.gif)
