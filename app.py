@@ -15,4 +15,5 @@ st.write(
 st.text_input("Вопрос", key="question", value=QUESTION)
 st.text_area("Контекст", key="context", value=CONTEXT, height=350)
 
-st.write(Model._get_model()(question=st.session_state.question, context=st.session_state.context))
+answer_dict = (Model._get_model()(question=st.session_state.question, context=st.session_state.context))
+st.text_input('Ответ', value=answer_dict['answer'], disabled=True)
