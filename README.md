@@ -11,6 +11,9 @@
 
 Приложение также доступно по ссылке: https://4boyz-project-practicum-app-pbsjwl.streamlit.app/
 
+Сборка докер контейнера: `docker build -t answers-to-questions .`
+
+Запуск контейнера: `docker run -p 8501:8501 answers-to-questions`
 
 ## Описание проекта
 Функция данного приложения заключается в ответе на произвольный вопрос по контексту на англ. языке
