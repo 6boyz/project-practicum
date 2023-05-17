@@ -2,14 +2,14 @@
 
 Приложение использует модель (`deepset/roberta-base-squad2`), которая отвечает на вопросы по тексту на английском языке.    
 
-Ссылка на используемую модель: https://huggingface.co/deepset/roberta-base-squad2
+Ссылка на используемую [модель](https://huggingface.co/deepset/roberta-base-squad2) 
 
 Для запуска необходимо установить пакеты путём выполнения команды: `pip install -r requirements.txt`.  
 И далее выполнить запуск приложения: `streamlit run app.py`    
 
 Запуск тестов:  `pytest`    
 
-Приложение также доступно по ссылке: https://4boyz-project-practicum-app-pbsjwl.streamlit.app/
+Приложение также доступно по [ссылке](https://6boyz-project-practicum-app-rc363a.streamlit.app/)
 
 Сборка докер контейнера: `docker build -t answers-to-questions .`
 
